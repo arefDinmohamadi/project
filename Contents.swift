@@ -48,10 +48,7 @@ for score in indivisualScore {
 }
 print(teamScore)
 
-class aref {
-    init() {
-        
-    }
+
 }
 
 
