@@ -48,7 +48,11 @@ for score in indivisualScore {
 }
 print(teamScore)
 
-var aref = "Azizeh"
+class aref {
+    init() {
+        
+    }
+}
 
 
 
